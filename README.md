@@ -12,6 +12,12 @@ DEP Data Hub serves as a comprehensive index of data sources, a showcase for dat
 - `projects/`: Showcases data-driven projects and analyses.
 - `hosted-data/`: Contains datasets directly hosted in this repository.
 
+## Data Flow and User Interaction
+
+The following diagram illustrates how users interact with different components of the DEP Data Hub and how data flows through the system:
+
+![DEP Data Hub Data Flow Diagram](docs/images/data_flow_diagram.png)
+
 ## How to Use the Data Hub
 
 1. Navigate to the relevant directory (`data-sources`, `projects`, or `hosted-data`).
