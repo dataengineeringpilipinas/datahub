@@ -67,6 +67,18 @@ By participating in this project, you agree to abide by our Code of Conduct:
 4. Do not share private or sensitive information.
 5. Respect intellectual property rights and data usage agreements.
 
+## Data Anonymization Requirement
+
+To protect individual privacy and comply with data protection regulations, all contributed datasets must be properly anonymized before submission. This applies to both hosted data and data sources:
+
+1. Remove all personally identifiable information (PII) such as names, addresses, phone numbers, email addresses, and social security numbers.
+2. Aggregate or generalize sensitive demographic information to prevent individual identification.
+3. Use data masking techniques for unique identifiers if they must be retained for analysis purposes.
+4. Ensure that the combination of retained data points cannot lead to re-identification of individuals.
+5. Document the anonymization process used in the dataset's README or metadata.
+
+Contributors are responsible for ensuring their data submissions comply with relevant privacy laws and ethical standards. Our maintainers will review anonymization efforts during the pull request process, but the primary responsibility lies with the contributor.
+
 ## Review Process
 
 All submissions will be reviewed by our maintainers. We may suggest changes or improvements before merging. Please be patient and open to feedback. Our goal is to ensure high-quality, valuable contributions to the DEP Data Hub.
