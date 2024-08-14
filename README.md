@@ -16,7 +16,7 @@ DEP Data Hub serves as a comprehensive index of data sources, a showcase for dat
 
 The following diagram illustrates how users interact with different components of the DEP Data Hub and how data flows through the system:
 
-![DEP Data Hub Data Flow Diagram](docs/images/data_flow_diagram.png)
+![DEP Data Hub Data Flow Diagram](docs/images/data_flow_diagram.jpg)
 
 ## How to Use the Data Hub
 
