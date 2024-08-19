@@ -20,17 +20,17 @@ Before contributing, it's important to understand the structure of our repositor
 4. Ensure you include accurate information about how to access the data, its format, update frequency, and any usage restrictions.
 5. Submit a pull request with a clear description of the addition.
 
-### Submitting a Project
+### Submitting a Project Description
 
 1. Fork this repository.
-2. Create a new file in the `projects` directory using the format `YYYY-MM-DD-project-name.md`.
+2. In the `projects` directory, create a new markdown file with a descriptive name for your project (e.g., `urban-heat-island-analysis.md`).
 3. Use the [project template](docs/project-template.md) to structure your entry.
 4. Provide a comprehensive overview of your project, including:
    - Project summary
    - Methodology
    - Key insights or findings
-   - Links to data sources used
-   - Any visualizations or results (consider using GitHub-flavored markdown for embedding images)
+   - Links to data sources used (preferably referencing sources from our `data-sources` directory)
+   - Link to the full project repository or website (if available)
 5. Submit a pull request with a summary of your project.
 
 ### Contributing Hosted Data
