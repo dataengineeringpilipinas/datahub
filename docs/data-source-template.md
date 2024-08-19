@@ -3,10 +3,13 @@
 ## Description
 [Provide a brief description of the data source]
 
-## Data Details
-- **Format**: [e.g., CSV, JSON, API]
-- **Size**: [Approximate size of the dataset, if known]
-- **Update Frequency**: [How often the data is updated]
+## Metadata
+- **Source Authority:** [Data Source Authority]
+- **Date Published:** YYYY-MM-DD
+- **Date Updated:** YYYY-MM-DD
+- **Data Type:** CSV, JSON, API, etc.
+- **Data Freshness:** Real-time, Monthly, etc.
+- **Data Quality:** High/Medium/Low
 
 ## Access Information
 - **URL**: [Link to access the data or data provider's website]
