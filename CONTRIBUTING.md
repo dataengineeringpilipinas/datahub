@@ -15,7 +15,7 @@ Before contributing, it's important to understand the structure of our repositor
 ### Adding a Data Source Entry
 
 1. Fork this repository.
-2. Create a new file in the `data-sources` directory using the format `YYYY-MM-DD-data-source-name.md`.
+2. Create a new file in the `data-sources` directory using a descriptive name that reflects the content of the data source (e.g., `city-population-data.md` or `air-quality-index.md`).
 3. Use the [data source template](docs/data-source-template.md) to structure your entry.
 4. Ensure you include accurate information about how to access the data, its format, update frequency, and any usage restrictions.
 5. Submit a pull request with a clear description of the addition.
