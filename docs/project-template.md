@@ -1,13 +1,18 @@
 # [Project Name]
 
-## Overview
-[Provide a brief description of the project]
+## Metadata
+- **Author:** [Author Name]
+- **Date Created:** YYYY-MM-DD
+- **Last Updated:** YYYY-MM-DD
+- **Version:** v1.0
+- **Status:** In Progress / Completed
 
-## Objective
-[Clearly state the main objective(s) of the project]
+## Summary
+A brief overview of the project. What does it aim to achieve?
 
 ## Data Sources Used
 [List and link to the data sources used in this project, referencing entries in the DEP Data Hub if applicable]
+- [Dataset Name](link-to-hosted-data-page)
 
 ## Methodology
 [Describe the approach, tools, and techniques used]
@@ -29,6 +34,12 @@
 
 ## Contributors
 [List the main contributors to the project]
+
+## Socials
+- **LinkedIn:** [LinkedIn Profile Link]
+- **GitHub:** [GitHub Profile Link]
+- **Facebook:** [Facebook Profile Link]
+- **Personal Website:** [Website Link] (if applicable)
 
 ## License
 [Specify the license under which this project is shared]
