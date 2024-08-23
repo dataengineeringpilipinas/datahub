@@ -1,7 +1,7 @@
 # Emigration by Country (1981-2022)
 
 ## Description
-[Provide a brief description of the data source]
+The dataset contains annual counts of emigrants from the Philippines, broken down by their destination countries. The data spans multiple years from 1981-2022 and includes a variety of destination countries, allowing for the analysis of emigration trends over time.
 
 ## Metadata
 - **Source Authority:** Commission on Filipinos Overseas (CFO) - Office of the President
