@@ -37,6 +37,10 @@ These visualizations allow users to drill down into specific countries and time 
 The project's code is available in the following repository:
 - [Emigrant Country Dashboard Repository](https://github.com/chrisformoso-ca/emigrant-country-dashboard)
 
+## Streamlit App
+You can explore the dashboard live at the following link:
+- [Emigrant Country Dashboard App](https://emigrant-country-dashboard.streamlit.app/)
+
 ## Challenges and Solutions
 One of the challenges faced was handling missing data and ensuring the accuracy of the cleaned dataset. This was addressed by filling missing values with zeros and verifying the data against the original sources. Additionally, reshaping the data into a long format required careful handling of column headers and data types.
 
