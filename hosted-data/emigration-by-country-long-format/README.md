@@ -42,7 +42,6 @@ This dataset can be used for:
 
 ### Limitations
 
-- **Data Gaps**: Some years may have incomplete data due to reporting issues.
 - **Country Classification**: In some cases, country names may have changed or merged, and such instances have been standardized where possible.
 
 ## Metadata
@@ -58,4 +57,6 @@ No personally identifiable information (PII) is included in this dataset. The da
 
 ## Accessing the Data
 
-The dataset can be downloaded directly from the [hosted data directory](link to dataset).
+The cleaned and transformed dataset is available for download:
+
+[Download the cleaned emigrant data (1981-2022)](datahub/hosted-data/emigration-by-country-long-format/Cleaned_Emigrant_Data.xlsx)
