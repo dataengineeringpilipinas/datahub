@@ -4,7 +4,7 @@ Welcome to the DEP Data Hub, an open and collaborative platform for data sources
 
 ## About
 
-DEP Data Hub serves as a comprehensive index of valuable data sources and a showcase for the community's data-driven projects. Our mission is the empower community through data collaboration and innovation by connecting data professionals, researchers, policymakers, and enthusiasts with valuable data resources and impactful projects.
+DEP Data Hub serves as a comprehensive index of valuable data sources and a showcase for the community's data-driven projects. Our mission is to empower the community through data collaboration and innovation by connecting data professionals, researchers, policymakers, and enthusiasts with valuable data resources and impactful projects.
 
 ## Repository Structure
 
