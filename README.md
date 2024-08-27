@@ -9,8 +9,8 @@ The DEP Data Hub is designed to serve as a resource for data enthusiasts, analys
 ## Contents
 
 - **[Documentation](docs/index.md)**: Comprehensive documentation and guides.
-- **[Projects](docs/projects.md)**: Analytical projects and dashboards built using the datasets.
-- **[Data Sources](docs/data-sources.md)**: A collection of datasets available for analysis.
+- **[Projects](docs/projects/)**: Analytical projects and dashboards built using the datasets.
+- **[Data Sources](docs/data-sources/)**: A collection of datasets available for analysis.
 
 ## Getting Started
 
