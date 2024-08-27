@@ -6,3 +6,14 @@ exclude:
   - project-template.md
   - data-source-template.md
   - contributing.md
+
+# Optional: Manually configure the navigation to avoid auto-including all files
+nav:
+  - title: "Home"
+    url: "/index.html"
+  - title: "Projects"
+    url: "/docs/index.md#projects"
+  - title: "Data Sources"
+    url: "/docs/index.md#data-sources"
+  - title: "Contribution Guide"
+    url: "/docs/contributing.md"
