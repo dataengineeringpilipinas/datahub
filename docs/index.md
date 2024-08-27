@@ -1,13 +1,24 @@
 # DEP Data Hub Documentation
 
-Welcome to the **Data Engineering Pilipinas (DEP) Data Hub** documentation. This site provides detailed information about the datasets and analytical projects available in the repository.
+Welcome to the **Data Engineering Pilipinas (DEP) Data Hub** documentation. This page provides an overview of the projects and datasets available in the repository.
 
-## Table of Contents
+## Projects
 
-- [Projects](projects.md): A list of analytical projects with descriptions and links.
-- [Data Sources](data-sources.md): A collection of datasets available for exploration and analysis.
-- [License](../LICENSE): License information.
+### 1. [Emigrant Country Dashboard](projects/emigrant-country-dashboard.md)
 
-## About the DEP Data Hub
 
-DEP Data Hub serves as a comprehensive index of valuable data sources and a showcase for the community's data-driven projects. Our mission is to empower the community through data collaboration and innovation by connecting data professionals, researchers, policymakers, and enthusiasts with valuable data resources and impactful projects.
+## Data Sources
+
+### 1. [Emigration by Country (1981-2022)](data-sources/Emigration-by-country-1981-2022.md)
+
+---
+
+More projects and datasets will be added as they are developed and curated. Stay tuned for updates!
+
+## Contribution Templates
+
+To contribute new projects or datasets, please refer to the templates provided:
+
+- **[Project Template](projects/README.md)**
+- **[Data Source Template](data-sources/README.md)**
+
