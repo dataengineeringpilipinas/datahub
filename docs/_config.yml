@@ -1,3 +1,8 @@
 title: DEP Data Hub
 description: The official documentation and resources for the Data Engineering Pilipinas Data Hub.
 theme: minima
+exclude:
+  - README.md
+  - project-template.md
+  - data-source-template.md
+  - contributing.md
