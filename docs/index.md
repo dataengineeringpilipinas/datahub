@@ -5,14 +5,14 @@ Welcome to the **Data Engineering Pilipinas (DEP) Data Hub**! Explore our commun
 ## Projects
 
 1. [Emigrant Country Dashboard](projects/emigrant-country-dashboard.md)
-   - Brief description of the project (1-2 sentences)
+   - A data visualization project that uses Streamlit to create an interactive dashboard for analyzing Filipino emigration trends from 1981 to 2022.
 
 <!-- Add more projects here as they become available -->
 
 ## Data Sources
 
 1. [Emigration by Country (1981-2022)](data-sources/Emigration-by-country-1981-2022.md)
-   - Brief description of the dataset (1-2 sentences)
+   - This dataset contains the annual count of emigrants from the Philippines to various countries, spanning from 1981 to 2022.
 
 <!-- Add more data sources here as they become available -->
 
