@@ -4,11 +4,11 @@ Welcome to the **DEP Data Hub**, a project initiated by Data Engineering Pilipin
 
 ## About DEP and the Data Hub
 
-**Data Engineering Pilipinas (DEP)** is a vibrant community of data professionals, enthusiasts, and aspiring experts in the Philippines, ranging from beginners to seasoned practitioners.
+[**Data Engineering Pilipinas (DEP)**](https://dataengineering.ph) is a vibrant community of data professionals, enthusiasts, and aspiring experts in the Philippines, ranging from beginners to seasoned practitioners.
 
 The **DEP Data Hub** is a specialized project under the DEP umbrella, designed to:
 - Promote active engagement among DEP community members
-- Provide a platform for showcasing data-driven projects and insights
+- Provide a platform for showcasing data-driven projects and insights by the community for the community
 - Bridge the gap between technical data professionals and non-technical stakeholders
 - Encourage collaboration and knowledge sharing within and beyond the data community
 
