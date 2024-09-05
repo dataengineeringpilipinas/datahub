@@ -1,0 +1,17 @@
+title: DEP Data Hub
+description: Data Engineering Pilipinas (DEP) Data Hub - A community-driven platform for data projects in the Philippines
+theme: minima
+markdown: kramdown
+
+include:
+  - "*.md"
+  - "**/*.md"
+
+header_pages:
+  - projects/emigrant-country-dashboard.md
+  - data-sources/Emigration-by-country-1981-2022.md
+  - CONTRIBUTING.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
