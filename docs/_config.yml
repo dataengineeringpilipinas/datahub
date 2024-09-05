@@ -9,9 +9,7 @@ include:
 header_pages:
   - OVERVIEW.md
   - CONTRIBUTING.md
-  - roadmap.md
-  - projects/README.md
-  - data-sources/README.md
+  - ROADMAP.md
 
 plugins:
   - jekyll-seo-tag
