@@ -42,19 +42,37 @@ We welcome contributions that align with the Data Hub's objectives:
 
 1. **Choose Your Contribution**: Decide how you'd like to contribute to the Data Hub's mission.
 
-2. **Use Our Templates**: Ensure consistency with our:
-   - **[Project Template](projects/README.md)**
-   - **[Data Source Template](data-sources/README.md)**
+2. **Use Our Templates**: 
+   * For a new project:
+     - Go to the [projects folder](https://github.com/yourusername/yourrepository/tree/main/projects)
+     - Open the `README.md` file
+     - Click the 'Raw' button to view the raw Markdown
+     - Copy the entire contents
+   * For a new data source:
+     - Go to the [data-sources folder](https://github.com/yourusername/yourrepository/tree/main/data-sources)
+     - Open the `README.md` file
+     - Click the 'Raw' button to view the raw Markdown
+     - Copy the entire contents
 
 3. **Submit Your Work**:
-   - Fork this repository
-   - Create a new branch for your contribution
-   - Follow the relevant template
-   - Submit a pull request with a description of your addition
+   * Fork this repository
+   * Create a new branch for your contribution
+   * For a new project:
+     - In your fork, create a new file in the `projects` folder named `your-project-name.md`
+     - Paste the copied project template into this new file
+     - Fill out all sections of the template with your project details
+   * For a new data source:
+     - In your fork, create a new file in the `data-sources` folder named `your-data-source-name.md`
+     - Paste the copied data source template into this new file
+     - Fill out all sections of the template with your data source details
+   * Commit your changes with a clear, descriptive commit message
+   * Submit a pull request with a description of your addition
 
 4. **Engage with the Community**:
-   - Participate in discussions
-   - Provide feedback on other contributions
-   - Share your insights and experiences
+   * Participate in discussions on open pull requests and issues
+   * Provide constructive feedback on other contributions
+   * Share your insights and experiences in using the Data Hub
+
+Remember to replace any placeholder text in the templates with your actual content. If you're unsure about any part of the process, don't hesitate to open an issue for clarification.
 
 Your contributions to the DEP Data Hub play a crucial role in fostering a more engaged and collaborative data community in the Philippines. Thank you for being part of this important initiative!
