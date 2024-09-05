@@ -1,3 +1,8 @@
+---
+layout: page
+title: Overview
+---
+
 # DEP Data Hub: Project Overview
 
 ## Vision
