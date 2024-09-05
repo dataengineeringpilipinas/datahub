@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 Welcome to the **Data Engineering Pilipinas (DEP) Data Hub**! This community-driven platform hosts a variety of data projects and sources relevant to the Philippines. Explore our current offerings below.
