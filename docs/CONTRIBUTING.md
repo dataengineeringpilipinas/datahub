@@ -1,28 +1,18 @@
 # Contributing to the DEP Data Hub
 
-Welcome to the DEP Data Hub contribution guide. This project is a key initiative of Data Engineering Pilipinas (DEP), aimed at fostering engagement and collaboration within our community and beyond.
-
-## Understanding DEP and the Data Hub
-
-**Data Engineering Pilipinas (DEP)** is a community that brings together data professionals, enthusiasts, and aspiring experts in the Philippines, from beginners to seasoned practitioners.
-
-The **DEP Data Hub** is a focused project within DEP that aims to:
-- Encourage active participation from DEP community members
-- Showcase the talents and insights of our data community
-- Create bridges between technical data professionals and non-technical stakeholders
-- Facilitate knowledge sharing and collaboration through practical projects and datasets
+Welcome to the DEP Data Hub contribution guide. We're excited to have you join our community-driven initiative aimed at empowering communities in the Philippines through data and data-driven projects.
 
 ## Why Your Contribution Matters
 
 By contributing to the DEP Data Hub, you:
-- Enhance engagement within the DEP community
+- Help empower communities in the Philippines through data
 - Showcase your skills to a diverse audience, including potential collaborators or employers
 - Help make data concepts and insights accessible to a broader audience
 - Drive data-inspired change in the Philippines and potentially on a global scale
 
 ## How You Can Contribute
 
-We welcome contributions that align with the Data Hub's goals:
+We welcome contributions that align with the Data Hub's objectives:
 
 1. **Share Your Data Projects**:
    - Data analysis projects
@@ -41,6 +31,10 @@ We welcome contributions that align with the Data Hub's goals:
    - Propose ideas for community projects or challenges
    - Contribute to discussions and provide constructive feedback on other projects
 
+5. **Improve Platform Development**:
+   - Contribute to the development of the Data Hub platform itself
+   - Help with documentation and user guides
+
 ## Getting Started
 
 1. **Choose Your Contribution**: Decide how you'd like to contribute to the Data Hub's mission.
@@ -54,5 +48,10 @@ We welcome contributions that align with the Data Hub's goals:
    - Create a new branch for your contribution
    - Follow the relevant template
    - Submit a pull request with a description of your addition
+
+4. **Engage with the Community**:
+   - Participate in discussions
+   - Provide feedback on other contributions
+   - Share your insights and experiences
 
 Your contributions to the DEP Data Hub play a crucial role in fostering a more engaged and collaborative data community in the Philippines. Thank you for being part of this important initiative!
