@@ -1,44 +1,36 @@
 # DEP Data Hub
 
-Welcome to the **DEP Data Hub**, a project initiated by Data Engineering Pilipinas (DEP) to foster engagement within our community and beyond.
+Welcome to the **DEP Data Hub**, a community-driven initiative by Data Engineering Pilipinas (DEP) to empower Filipino communities through data and data-driven projects.
 
-## About DEP and the Data Hub
+## About
 
-[**Data Engineering Pilipinas (DEP)**](https://dataengineering.ph) is a vibrant community of data professionals, enthusiasts, and aspiring experts in the Philippines, ranging from beginners to seasoned practitioners.
+The DEP Data Hub serves as a central repository for data sources and projects relevant to the Philippines. Our goal is to make valuable information accessible and actionable, driving positive change through data-driven insights.
 
-The **DEP Data Hub** is a specialized project under the DEP umbrella, designed to:
-- Promote active engagement among DEP community members
-- Provide a platform for showcasing data-driven projects and insights by the community for the community
-- Bridge the gap between technical data professionals and non-technical stakeholders
-- Encourage collaboration and knowledge sharing within and beyond the data community
+## Key Objectives
 
-## What the Data Hub Offers
-
-Our community-driven platform features:
-- **Diverse Projects**: Spanning data analysis, data science, and data engineering
-- **Curated Datasets**: Relevant to the Philippines and global data trends
-
-## Contents
-
-- **[Projects](docs/projects/)**: Community-contributed data initiatives
-- **[Data Sources](docs/data-sources/)**: Curated datasets for exploration and analysis
+1. **Foster Access and Transparency:** Maintain open-source principles and data accessibility.
+2. **Enable Data Engagement:** Facilitate the use of datasets to uncover insights benefiting Filipino communities.
+3. **Support Community Efforts:** Provide data resources to local initiatives, enhancing their impact.
+4. **Promote Data Literacy:** Encourage understanding and effective use of data across diverse groups.
+5. **Cultivate Collaboration:** Create an environment for impactful, collaborative projects.
+6. **Drive Community Impact:** Translate data-driven insights into tangible, positive changes.
 
 ## Getting Started
 
-Explore our community's contributions in the [Data Hub Index](docs/index.md).
+- Explore our [projects](docs/projects/) and [data sources](docs/data-sources/)
+- Learn how to [contribute](docs/CONTRIBUTING.md) to the DEP Data Hub
+- Read our detailed [project overview](docs/OVERVIEW.md) and [roadmap](docs/ROADMAP.md)
 
-## Contributing
+## Join the Community
 
-Help grow this resource! Check our [Contributing Guide](docs/contributing.md) to get started.
-
-## Join the Conversation
-
-- 🌟 Star this repository to show your support
-- 👀 Watch for updates and new contributions
-- 🗣 Engage in our [GitHub Discussions](link-to-discussions)
-- 🐛 Help improve the hub by [reporting issues](link-to-issues)
-- 🌐 Learn more about DEP on our [Website](https://dataengineering.ph)
+- Engage in discussions: [GitHub Discussions](link-to-discussions)
+- Report issues or suggest improvements: [Issues](link-to-issues)
+- Connect with DEP: [Website](https://dataengineering.ph) | [Facebook](link-to-facebook) | [LinkedIn](link-to-linkedin)
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). We encourage using and building upon our community's work, with appropriate attribution.
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+We're excited to have you join us in leveraging data for positive change in the Philippines. Your contributions can make a real difference!
