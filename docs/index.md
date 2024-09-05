@@ -21,7 +21,7 @@ Welcome to the **Data Engineering Pilipinas (DEP) Data Hub**! This community-dri
 We welcome contributions from data enthusiasts, professionals, and anyone interested in leveraging data for positive change in the Philippines.
 
 - 🌟 Interested in contributing? Check out our [Contributing Guide](CONTRIBUTING.md).
-- 🔍 For more information about the DEP Data Hub, visit our [GitHub Repository](https://github.com/link-to-your-repo).
+- 🔍 For more information about the DEP Data Hub, visit our [GitHub Repository](https://github.com/chrisformoso-ca/datahub).
 - 💬 Join the discussion in our [GitHub Discussions](link-to-discussions).
 - 🐛 Found an issue? [Let us know](link-to-issues).
 - 🌐 Visit the [DEP Website](https://dataengineering.ph) for more info.
