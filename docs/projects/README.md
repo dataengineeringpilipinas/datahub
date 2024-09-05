@@ -2,11 +2,22 @@
 
 ## How to Add Your Project
 
-To contribute a project to the DEP Data Hub, please follow these steps:
+1. **Copy Template**: 
+   - Scroll down to the template section below
+   - Click the 'Raw' button on the top right of the template section
+   - Copy the entire raw Markdown content
 
-1. **Use the Project Template**: Start by copying the template provided below into a new Markdown file within this directory. Name the file after your project (e.g., `your-project-name.md`).
-2. **Fill Out the Template**: Replace the placeholders with the relevant information about your project. Ensure all sections are completed to provide a comprehensive overview.
-3. **Submit Your Project**: Once you've filled out the template, commit the file and submit a pull request with a brief description of your contribution.
+2. **Create File**: 
+   - In this `projects` folder, create a new file named `your-project-name.md`
+   - Paste the copied template into this new file
+
+3. **Fill Details**: 
+   - Replace all placeholders with your project's information
+   - Ensure all sections are completed
+
+4. **Submit**: 
+   - Commit your file
+   - Create a pull request with a brief description of your project
 
 ---
 
