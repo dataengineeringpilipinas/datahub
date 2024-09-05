@@ -1,4 +1,7 @@
-# DEP Data Hub Roadmap
+---
+layout: page
+title: Roadmap
+---
 
 This document outlines development roadmap for the DEP Data Hub project, providing a high-level guide for our development process. It details key features and milestones for each project phase, from a GitHub-based index to a full-fledged, community-driven data platform.
 
