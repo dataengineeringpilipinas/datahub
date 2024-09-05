@@ -1,6 +1,6 @@
 # DEP Data Hub
 
-Welcome to the **Data Engineering Pilipinas (DEP) Data Hub**! Explore our community-contributed data projects and resources below.
+Welcome to the **Data Engineering Pilipinas (DEP) Data Hub**! This community-driven platform hosts a variety of data projects and sources relevant to the Philippines. Explore our current offerings below.
 
 ## Projects
 
@@ -16,9 +16,9 @@ Welcome to the **Data Engineering Pilipinas (DEP) Data Hub**! Explore our commun
 
 <!-- Add more data sources here as they become available -->
 
----
-
 ## Get Involved
+
+We welcome contributions from data enthusiasts, professionals, and anyone interested in leveraging data for positive change in the Philippines.
 
 - 🌟 Interested in contributing? Check out our [Contributing Guide](contributing.md).
 - 🔍 For more information about the DEP Data Hub, visit our [GitHub Repository](https://github.com/link-to-your-repo).
