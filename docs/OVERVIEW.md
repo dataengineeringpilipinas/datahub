@@ -45,7 +45,7 @@ To serve as a central hub for aggregating, managing, and sharing community-contr
 4. Phase 4: Advanced Features and Community Engagement
    - Enhance project showcase and community interaction tools
 
-For a detailed development plan, please refer to the [ROADMAP.md](docs/ROADMAP.md) file in our project repository.
+For a detailed development plan, please refer to the [ROADMAP.md](ROADMAP.md) file in our project repository.
 
 ## Community-Centric Approach
 - Open-source development methodology
