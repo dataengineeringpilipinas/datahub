@@ -16,6 +16,10 @@ header_pages:
 plugins:
   - jekyll-seo-tag
 
+exclude:
+  - projects/
+  - data-sources/
+
 author: Data Engineering Pilipinas
 twitter:
   username: DEPilipinas
