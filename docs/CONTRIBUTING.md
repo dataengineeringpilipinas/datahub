@@ -1,3 +1,8 @@
+---
+layout: page
+title: Contributing
+---
+
 # Contributing to the DEP Data Hub
 
 Welcome to the DEP Data Hub contribution guide. We're excited to have you join our community-driven initiative aimed at empowering communities in the Philippines through data and data-driven projects.
