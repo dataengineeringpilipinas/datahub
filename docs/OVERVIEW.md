@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Overview
+title: Project Overview
 ---
-
-# DEP Data Hub: Project Overview
-
 ## Vision
 To create an open, collaborative platform that empowers communities in the Philippines through data and data-driven projects.
 
