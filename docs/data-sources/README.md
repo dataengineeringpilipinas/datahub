@@ -1,59 +1,74 @@
 # Data Source Template
 
-## How to Add Your Data Source
+## How to Add a New Data Source
 
-To contribute a data source to the DEP Data Hub, please follow these steps:
+1. **Copy Template**: 
+   - Scroll down to the template section below
+   - Click the 'Raw' button on the top right of the template section
+   - Copy the entire raw Markdown content below the line
 
-1. **Use the Data Source Template**: Start by copying the template provided below into a new Markdown file within this directory. Name the file after your data source (e.g., `your-data-source-name.md`).
-2. **Fill Out the Template**: Replace the placeholders with the relevant information about your data source. Ensure all sections are completed to provide thorough documentation.
-3. **Submit Your Data Source**: Once you've filled out the template, commit the file and submit a pull request with a brief description of your contribution.
+2. **Create File**: 
+   - In this `data-sources` folder, create a new file named `your-data-source-name.md`
+   - Paste the copied template into this new file
 
+3. **Fill Details**: 
+   - Replace all [placeholders] with information about your data source
+   - Ensure all sections are completed
+
+4. **Submit**: 
+   - Commit your file
+   - Create a pull request with a brief description of the data source
+
+(Copy below this line)
 ---
-
-## Data Source Template
 
 # [Data Source Name]
 
-## Description
-[Provide a brief description of the data source and its relevance to Philippine communities]
-
 ## Metadata
-- **Source Authority:** [Data Source Authority]
-- **Date Published:** YYYY-MM-DD
-- **Date Updated:** YYYY-MM-DD
-- **Data Type:** CSV, JSON, API, etc.
-- **Data Freshness:** Real-time, Monthly, etc.
-- **Data Quality:** High/Medium/Low
+- **Contributor:** [Your Name]
+- **Date Added:** YYYY-MM-DD
+- **Last Updated:** YYYY-MM-DD
+- **Version:** v1.0
 
-## Access Information
-- **URL**: [Link to access the data or data provider's website]
-- **Access Method**: [e.g., Direct download, API, Registration required]
-- **Authentication Required**: [Yes/No]
-- **API Key Required**: [Yes/No]
+## Description
+[Provide a brief description of the data source]
 
-## Data Fields
-- **Field1:** Description
-- **Field2:** Description
+## Source Organization
+[Name of the organization that produced or maintains this data]
 
-## Use Cases
-[Provide examples of potential use cases for this data, especially those that could benefit Philippine communities]
+## Data Collection Methodology
+[Explain how the data was collected]
 
-## Alignment with DEP Data Hub Objectives
-[Explain how this data source aligns with one or more of the DEP Data Hub's key objectives]
+## Time Period Covered
+[Specify the time range of the data, e.g., 2010-2022]
 
-## Associated Projects
-- [Project Name](link-to-project-page)
+## Update Frequency
+[How often is this data updated?]
 
-## Data Provider
-- **Name**: [Organization or individual providing the data]
-- **Contact**: [Contact information if available]
+## Data Format
+[Specify the format(s) in which the data is available, e.g., CSV, JSON, API]
 
-## Community Impact
-[Describe the potential impact of this data source on Philippine communities]
+## License / Usage Rights
+[Describe the terms under which this data can be used]
 
-## Feedback
-- **User Comments:** [User Comments Link]
+## How to Access
+[Provide instructions or links for accessing the data]
+
+## Data Dictionary
+[If applicable, provide a brief data dictionary or link to one]
+
+## Relevance to Philippine Data Projects
+[Explain how this data source could be valuable for projects related to the Philippines]
+
+## Known Issues or Limitations
+[Describe any known problems or constraints with the data]
+
+## Related Projects
+[List any DEP Data Hub projects that use this data source]
+
+## Additional Resources
+[Include any helpful links or references related to this data]
 
 ---
-Last Updated: [Date]
-Contributed by: [Your Name/Username]
+Submitted by: [Your Name]
+Date: [Submission Date]
