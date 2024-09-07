@@ -25,7 +25,7 @@ The DEP Data Hub serves as a central repository for data sources and projects re
 
 - Engage in discussions: [GitHub Discussions](link-to-discussions)
 - Report issues or suggest improvements: [Issues](link-to-issues)
-- Connect with DEP: [Website](https://dataengineering.ph) | [Facebook](link-to-facebook) | [LinkedIn](link-to-linkedin)
+- Connect with DEP: [Website](https://dataengineering.ph) | [Facebook](https://www.facebook.com/groups/1225639754738756) | [LinkedIn](https://www.linkedin.com/company/dataengineeringpilipinas/)
 
 ## License
 
