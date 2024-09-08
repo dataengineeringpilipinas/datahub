@@ -1,44 +1,36 @@
 # DEP Data Hub
 
-Welcome to the DEP Data Hub, an open and collaborative platform for data sources and data-driven projects.
+Welcome to the **DEP Data Hub**, a community-driven initiative by Data Engineering Pilipinas (DEP) to empower Filipino communities through data and data-driven projects.
 
 ## About
 
-DEP Data Hub serves as a comprehensive index of valuable data sources and a showcase for the community's data-driven projects. Our mission is to empower the community through data collaboration and innovation by connecting data professionals, researchers, policymakers, and enthusiasts with valuable data resources and impactful projects.
+The DEP Data Hub serves as a central repository for data sources and projects relevant to the Philippines. Our goal is to make valuable information accessible and actionable, driving positive change through data-driven insights.
 
-## Repository Structure
+## Key Objectives
 
-- `data-sources/`: 
-  - `README.md`: An index of data sources with links
-  - Individual `.md` files for each data source with detailed information
-- `projects/`: 
-  - `README.md`: An index of data-driven projects with links
-  - Individual `.md` files for each project with detailed information
+1. **Foster Access and Transparency:** Maintain open-source principles and data accessibility.
+2. **Enable Data Engagement:** Facilitate the use of datasets to uncover insights benefiting Filipino communities.
+3. **Support Community Efforts:** Provide data resources to local initiatives, enhancing their impact.
+4. **Promote Data Literacy:** Encourage understanding and effective use of data across diverse groups.
+5. **Cultivate Collaboration:** Create an environment for impactful, collaborative projects.
+6. **Drive Community Impact:** Translate data-driven insights into tangible, positive changes.
 
-## How to Use the Data Hub
+## Getting Started
 
-1. Browse through the README files in each directory (`data-sources` or `projects`) to find resources you need.
-2. Click on the links in the README files to access detailed information about each data source or project.
+- Explore our [projects](docs/projects/) and [data sources](docs/data-sources/)
+- Learn how to [contribute](docs/CONTRIBUTING.md) to the DEP Data Hub
+- Read our detailed [project overview](docs/OVERVIEW.md) and [roadmap](docs/ROADMAP.md)
 
-## Contributing
+## Join the Community
 
-To contribute your own data source or project:
-
-1. Fork this repository
-2. Create a new `.md` file in the appropriate directory (`data-sources` or `projects`) with information about your contribution
-3. Update the README.md in that directory to include a link to your new file
-4. Submit a pull request to add your contribution to the main DEP Data Hub
-
-For more details, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
-
-## Get Involved
-
-- 🌟 Star this repository to show your support
-- 👀 Watch this repository to receive notifications for new entries
-- 🗣 Join the discussion in our [GitHub Discussions](link-to-discussions)
-- 🐛 Found an issue? [Let us know](link-to-issues)
-- Visit the [DEP Website](dataengineering.ph) for more info
+- Engage in discussions: [GitHub Discussions](link-to-discussions)
+- Report issues or suggest improvements: [Issues](link-to-issues)
+- Connect with DEP: [Website](https://dataengineering.ph) | [Facebook](https://www.facebook.com/groups/1225639754738756) | [LinkedIn](https://www.linkedin.com/company/dataengineeringpilipinas/)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+We're excited to have you join us in leveraging data for positive change in the Philippines. Your contributions can make a real difference!

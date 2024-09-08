@@ -1,0 +1,26 @@
+title: DEP Data Hub
+description: Data Engineering Pilipinas (DEP) Data Hub - A community-driven platform for data projects in the Philippines
+theme: minima
+
+include:
+  - "*.md"
+  - "**/*.md"
+
+header_pages:
+  - OVERVIEW.md
+  - CONTRIBUTING.md
+  - ROADMAP.md
+
+plugins:
+  - jekyll-seo-tag
+
+author: Data Engineering Pilipinas
+twitter:
+  username: DEPilipinas
+  card: summary
+social:
+  name: Data Engineering Pilipinas
+  links:
+    - https://twitter.com/DEPilipinas
+    - https://github.com/chrisformoso-ca/datahub
+    - https://dataengineering.ph
