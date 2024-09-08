@@ -4,8 +4,6 @@ layout: home
 
 Empower Philippine communities through data. [Join our growing network of contributors](CONTRIBUTING.md) and make a lasting impact.
 
-## Community Contributions
-
 ## Projects
 1. [Emigrant Country Dashboard](projects/emigrant-country-dashboard.md)
    - An interactive Streamlit dashboard analyzing Filipino emigration trends from 1981 to 2022.
