@@ -2,16 +2,15 @@
 layout: home
 ---
 
-# Welcome to the Data Engineering Pilipinas (DEP) Data Hub
 Empower Philippine communities through data. [Join our growing network of contributors](CONTRIBUTING.md) and make a lasting impact.
 
 ## Community Contributions
 
-### Projects
+## Projects
 1. [Emigrant Country Dashboard](projects/emigrant-country-dashboard.md)
    - An interactive Streamlit dashboard analyzing Filipino emigration trends from 1981 to 2022.
 
-### Data Sources
+## Data Sources
 1. [Emigration by Country (1981-2022)](data-sources/Emigration-by-country-1981-2022.md)
    - Annual count of emigrants from the Philippines to various countries from 1981 to 2022.
 
@@ -22,10 +21,10 @@ Empower Philippine communities through data. [Join our growing network of contri
 - 🐛 Found an issue? [Let us know](https://github.com/chrisformoso-ca/datahub/issues).
 - 🌐 Visit the [DEP Website](https://dataengineering.ph) for more information about our organization.
 
-## Contribute to the Project
+## Be Part of the Change
 
-If you're interested in contributing to the DEP Data Hub and making an impact on data-driven initiatives in the Philippines, we welcome your participation. Your expertise and efforts can help empower communities through accessible and actionable data.
+Your expertise can drive data-inspired change in the Philippines. Whether you're a data enthusiast, professional, or simply interested in leveraging data for positive impact, we welcome your contributions.
 
-[Learn How to Contribute](CONTRIBUTING.md)
+[Start Contributing Today](CONTRIBUTING.md)
 
-Thank you for your interest in the DEP Data Hub. Together, we can leverage data for positive change in the Philippines.
+Together, we can build a more data-empowered future for Philippine communities.
