@@ -18,8 +18,8 @@ Whether you're a data pro, a curious hobbyist, or just have some interesting Phi
 
 - 🌟 Ready to add your project or data source? Here's our [Contributing Guide](CONTRIBUTING.md).
 - 🔍 Check out our [GitHub Repository](https://github.com/dataengineeringpilipinas/datahub) to learn more about the datahub platform.
-- 💬 Got ideas? Jump into our [GitHub Discussions](https://github.com/dataengineeringpilipinas/datahub/discussions).
-- 🐛 Spotted a bug? [Open an issue](https://github.com/dataengineeringpilipinas/datahub/issues) and let us know.
+- 💬 Got ideas? Jump into our [GitHub Discussions](link-to-discussions).
+- 🐛 Spotted a bug? [Open an issue](link-to-issues) and let us know.
 - 🌐 Want to know more about us? Visit the [DEP Website](https://dataengineering.ph).
 
 Your expertise, data, or projects can help build a richer, more comprehensive resource for anyone interested in Philippine-related data. Let's make Philippine data more accessible together!
