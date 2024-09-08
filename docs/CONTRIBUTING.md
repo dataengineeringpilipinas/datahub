@@ -44,12 +44,12 @@ We welcome contributions that align with the Data Hub's objectives:
 
 2. **Use Our Templates**: 
    * For a new project:
-     - Go to the [projects folder](https://github.com/chrisformoso-ca/datahub/tree/main/docs/projects)
+     - Go to the [projects folder](https://github.com/dataengineeringpilipinas/datahub/tree/main/docs/projects)
      - Open the `README.md` file
      - Click the 'Raw' button to view the raw Markdown
      - Copy the entire contents
    * For a new data source:
-     - Go to the [data-sources folder](https://github.com/chrisformoso-ca/datahub/tree/main/docs/data-sources)
+     - Go to the [data-sources folder](https://github.com/dataengineeringpilipinas/datahub/tree/main/docs/data-sources)
      - Open the `README.md` file
      - Click the 'Raw' button to view the raw Markdown
      - Copy the entire contents
