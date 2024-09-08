@@ -17,9 +17,9 @@ Welcome to the **Data Engineering Pilipinas (DEP) Data Hub**, a community-driven
 Whether you're a data pro, a curious hobbyist, or just have some interesting Philippines-related data to share, we'd love to have you on board.
 
 - 🌟 Ready to add your project or data source? Here's our [Contributing Guide](CONTRIBUTING.md).
-- 🔍 Check out our [GitHub Repository](https://github.com/chrisformoso-ca/datahub) to learn more about the datahub platform.
-- 💬 Got ideas? Jump into our [GitHub Discussions](https://github.com/chrisformoso-ca/datahub/discussions).
-- 🐛 Spotted a bug? [Open an issue](https://github.com/chrisformoso-ca/datahub/issues) and let us know.
+- 🔍 Check out our [GitHub Repository](https://github.com/dataengineeringpilipinas/datahub) to learn more about the datahub platform.
+- 💬 Got ideas? Jump into our [GitHub Discussions](https://github.com/dataengineeringpilipinas/datahub/discussions).
+- 🐛 Spotted a bug? [Open an issue](https://github.com/dataengineeringpilipinas/datahub/issues) and let us know.
 - 🌐 Want to know more about us? Visit the [DEP Website](https://dataengineering.ph).
 
 Your expertise, data, or projects can help build a richer, more comprehensive resource for anyone interested in Philippine-related data. Let's make Philippine data more accessible together!
