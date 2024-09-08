@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Empower Philippine communities through data. [Join our growing network of contributors](CONTRIBUTING.md) and make a lasting impact.
+Welcome to the **Data Engineering Pilipinas (DEP) Data Hub**, a community-driven platform hosting data projects and sources relevant to the Philippines. Our mission is to empower Philippine communities through data. [Join our growing network of contributors](CONTRIBUTING.md) and make a lasting impact.
 
 ## Projects
 1. [Emigrant Country Dashboard](projects/emigrant-country-dashboard.md)
@@ -12,17 +12,14 @@ Empower Philippine communities through data. [Join our growing network of contri
 1. [Emigration by Country (1981-2022)](data-sources/Emigration-by-country-1981-2022.md)
    - Annual count of emigrants from the Philippines to various countries from 1981 to 2022.
 
-## Explore and Engage
+## Get Involved
 
-- 🔍 Browse our [GitHub Repository](https://github.com/chrisformoso-ca/datahub) for a deeper dive into the DEP Data Hub.
-- 💬 Join the conversation in our [GitHub Discussions](https://github.com/chrisformoso-ca/datahub/discussions).
-- 🐛 Found an issue? [Let us know](https://github.com/chrisformoso-ca/datahub/issues).
-- 🌐 Visit the [DEP Website](https://dataengineering.ph) for more information about our organization.
+Whether you're a data pro, a curious hobbyist, or just have some interesting Philippines-related data to share, we'd love to have you on board.
 
-## Be Part of the Change
+- 🌟 Ready to add your project or data source? Here's our [Contributing Guide](CONTRIBUTING.md).
+- 🔍 Check out our [GitHub Repository](https://github.com/chrisformoso-ca/datahub) to learn more about the datahub platform.
+- 💬 Got ideas? Jump into our [GitHub Discussions](https://github.com/chrisformoso-ca/datahub/discussions).
+- 🐛 Spotted a bug? [Open an issue](https://github.com/chrisformoso-ca/datahub/issues) and let us know.
+- 🌐 Want to know more about us? Visit the [DEP Website](https://dataengineering.ph).
 
-Your expertise can drive data-inspired change in the Philippines. Whether you're a data enthusiast, professional, or simply interested in leveraging data for positive impact, we welcome your contributions.
-
-[Start Contributing Today](CONTRIBUTING.md)
-
-Together, we can build a more data-empowered future for Philippine communities.
+Your expertise, data, or projects can help build a richer, more comprehensive resource for anyone interested in Philippine-related data. Let's make Philippine data more accessible together!
