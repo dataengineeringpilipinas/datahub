@@ -18,6 +18,8 @@ tags:
 
 # Emigration by Country (1981-2022)
 
+*Note: To view the full metadata for this data source, please see the raw file in our [GitHub repository](https://github.com/dataengineeringpilipinas/datahub/tree/main/data-sources).*
+
 ## Description
 The dataset contains annual counts of emigrants from the Philippines, broken down by their destination countries. The data spans multiple years from 1981-2022 and includes a variety of destination countries, allowing for the analysis of emigration trends over time.
 
