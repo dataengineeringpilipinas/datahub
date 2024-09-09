@@ -2,44 +2,65 @@
 
 ## How to Add Your Project
 
-1. **Copy Template**: 
-   - Scroll down to the template section below
-   - Click the 'Raw' button on the top right of the template section
-   - Copy the entire raw Markdown content below the line
-
-2. **Create File**: 
+1. **Create File**: 
    - In this `projects` folder, create a new file named `your-project-name.md`
-   - Paste the copied template into this new file
+
+2. **Copy Template**: 
+   - Copy the entire template provided at the bottom of this README
 
 3. **Fill Details**: 
-   - Replace all [placeholders] with your project's information
-   - Ensure all sections are completed
+   - Paste the template into your new file
+   - Replace all placeholders with your project's information
+   - Ensure all required fields are completed
 
 4. **Submit**: 
    - Commit your file
    - Create a pull request with a brief description of your project
 
-(Copy below this line)
 ---
 
-# [Project Name]
+## YAML Front Matter Fields Explanation
 
-## Metadata
-- **Author:** [Author Name]
-- **Date Created:** YYYY-MM-DD
-- **Last Updated:** YYYY-MM-DD
-- **Version:** v1.0
-- **Status:** In Progress / Completed
+- `title`: The name of your project
+- `author`: Your name or the primary author's name
+- `date_created`: The date the project was started (YYYY-MM-DD format)
+- `last_updated`: The date of the most recent update (YYYY-MM-DD format)
+- `version`: The current version of the project (e.g., v1.0, v2.1)
+- `status`: Either "In Progress" or "Completed"
+- `tags`: A list of relevant keywords (aim for 3-5 tags)
+- `data_sources`: A list of data sources used in the project
+- `alignment`: A brief explanation of how the project aligns with DEP Data Hub objectives
+
+Remember to replace all placeholder text in both the YAML front matter and the Markdown sections with your actual project information.
+
+## Template
+
+Copy the entire content below this line:
+
+---
+
+```
+---
+title: "Your Project Title"
+author: "Your Name"
+date_created: YYYY-MM-DD
+last_updated: YYYY-MM-DD
+version: v1.0
+status: "In Progress" # or "Completed"
+tags: 
+  - tag1
+  - tag2
+  - tag3
+data_sources:
+  - "Data Source 1"
+  - "Data Source 2"
+alignment: "Briefly explain how your project aligns with DEP Data Hub objectives"
+---
+
+# [Your Project Title]
 
 ## Summary
 A brief overview of the project. What does it aim to achieve? How does it contribute to community empowerment in the Philippines?
-
-## Alignment with DEP Data Hub Objectives
-[Explain how your project aligns with one or more of the DEP Data Hub's key objectives]
-
-## Data Sources Used
-[List and link to the data sources used in this project, referencing entries in the DEP Data Hub if applicable]
-- [Dataset Name](link-to-hosted-data-page)
 
 ## Methodology
 [Describe the approach, tools, and techniques used]
@@ -65,15 +86,6 @@ A brief overview of the project. What does it aim to achieve? How does it contri
 ## Contributors
 [List the main contributors to the project]
 
-## Socials
-- **LinkedIn:** [LinkedIn Profile Link]
-- **GitHub:** [GitHub Profile Link]
-- **Facebook:** [Facebook Profile Link]
-- **Personal Website:** [Website Link] (if applicable)
-
 ## License
 [Specify the license under which this project is shared]
-
----
-Submitted by: [Your Name]
-Date: [Submission Date]
+```
