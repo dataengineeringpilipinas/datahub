@@ -59,6 +59,8 @@ alignment: "Briefly explain how your project aligns with DEP Data Hub objectives
 
 # [Your Project Title]
 
+*Note: To view the full metadata for this project, please see the raw file in our [GitHub repository](https://github.com/dataengineeringpilipinas/datahub/tree/main/projects).*
+
 ## Summary
 A brief overview of the project. What does it aim to achieve? How does it contribute to community empowerment in the Philippines?
 
