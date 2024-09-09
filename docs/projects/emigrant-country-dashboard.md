@@ -16,6 +16,8 @@ alignment: "This project aligns with DEP Data Hub's objective of enabling data e
 
 # Emigrant Country Dashboard
 
+*Note: To view the full metadata for this project, please see the raw file in our [GitHub repository](https://github.com/dataengineeringpilipinas/datahub/tree/main/projects).*
+
 ## Summary
 The Emigrant Country Dashboard project aims to visualize and analyze the emigration trends from the Philippines to various countries from 1981 to 2022. This dashboard provides insights into the patterns and changes in emigration over the years, allowing users to explore the data interactively.
 
