@@ -1,17 +1,23 @@
-# Emigrant Country Dashboard
+---
+title: "Emigrant Country Dashboard"
+author: "Chris Formoso"
+date_created: 2024-08-26
+last_updated: 2024-08-26
+version: v1.0
+status: "Completed"
+tags:
+  - emigration
+  - dashboard
+  - data-visualization
+data_sources:
+  - "Philippines Emigration Data (1981-2022)"
+alignment: "This project aligns with DEP Data Hub's objective of enabling data engagement by providing interactive visualizations of Philippine emigration trends."
+---
 
-## Metadata
-- **Author:** Chris Formoso
-- **Date Created:** 2024-08-26
-- **Last Updated:** 2024-08-26
-- **Version:** v1.0
-- **Status:** Completed
+# Emigrant Country Dashboard
 
 ## Summary
 The Emigrant Country Dashboard project aims to visualize and analyze the emigration trends from the Philippines to various countries from 1981 to 2022. This dashboard provides insights into the patterns and changes in emigration over the years, allowing users to explore the data interactively.
-
-## Data Sources Used
-- [Philippines Emigration Data (1981-2022)](datahub/hosted-data/emigration-by-country-long-format/Cleaned_Emigrant_Data.xlsx)
 
 ## Methodology
 The project was developed using Python with the Streamlit framework for building the dashboard. The primary data processing was done using pandas, and visualizations were created using Plotly. The cleaned data was reshaped into a long format to facilitate easier analysis and visualization. 
@@ -37,12 +43,14 @@ These visualizations allow users to drill down into specific countries and time 
 The project's code is available in the following repository:
 - [Emigrant Country Dashboard Repository](https://github.com/chrisformoso-ca/emigrant-country-dashboard)
 
-## Streamlit App
-You can explore the dashboard live at the following link:
+Streamlit App: You can explore the dashboard live at the following link:
 - [Emigrant Country Dashboard App](https://emigrant-country-dashboard.streamlit.app/)
 
 ## Challenges and Solutions
 One of the challenges faced was handling missing data and ensuring the accuracy of the cleaned dataset. This was addressed by filling missing values with zeros and verifying the data against the original sources. Additionally, reshaping the data into a long format required careful handling of column headers and data types.
+
+## Community Impact
+This dashboard provides a valuable tool for researchers, policymakers, and the general public to understand emigration trends from the Philippines. It can inform policy decisions, aid in demographic studies, and raise awareness about migration patterns.
 
 ## Future Work
 Potential next steps for this project include:
@@ -53,13 +61,9 @@ Potential next steps for this project include:
 ## Contributors
 - Chris Formoso
 
-## Socials
-- **LinkedIn:** [https://www.linkedin.com/in/chris-formoso/](https://www.linkedin.com/in/chris-formoso/)
-- **GitHub:** [https://github.com/chrisformoso-ca](https://github.com/chrisformoso-ca)
-
 ## License
 This project is shared under the MIT License.
 
----
-Submitted by: Chris Formoso 
-Date: 2024-08-26
+## Socials
+- **LinkedIn:** [https://www.linkedin.com/in/chris-formoso/](https://www.linkedin.com/in/chris-formoso/)
+- **GitHub:** [https://github.com/chrisformoso-ca](https://github.com/chrisformoso-ca)
