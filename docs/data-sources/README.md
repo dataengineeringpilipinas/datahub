@@ -1,74 +1,95 @@
-# Data Source Template
+# Project Template
 
-## How to Add a New Data Source
+## How to Add Your Project
 
-1. **Copy Template**: 
-   - Scroll down to the template section below
-   - Click the 'Raw' button on the top right of the template section
-   - Copy the entire raw Markdown content below the line
+1. **Read Instructions**: 
+   - Carefully read through the YAML Front Matter Fields Explanation below.
+   - Understand what each field represents before filling out the template.
 
-2. **Create File**: 
-   - In this `data-sources` folder, create a new file named `your-data-source-name.md`
+2. **Copy Template**: 
+   - Scroll down to the "Template Start" line.
+   - Copy everything from that line to the end of the document.
+
+3. **Create File**: 
+   - In this `projects` folder, create a new file named `your-project-name.md`
    - Paste the copied template into this new file
 
-3. **Fill Details**: 
-   - Replace all [placeholders] with information about your data source
-   - Ensure all sections are completed
+4. **Fill Details**: 
+   - Replace all placeholders in the YAML front matter (between the `---` lines) with your project's information
+   - Fill out the remaining sections in Markdown format
+   - Ensure all required fields are completed
 
-4. **Submit**: 
+5. **Submit**: 
    - Commit your file
-   - Create a pull request with a brief description of the data source
+   - Create a pull request with a brief description of your project
 
-(Copy below this line)
----
+## YAML Front Matter Fields Explanation
 
-# [Data Source Name]
+- `title`: The name of your project
+- `author`: Your name or the primary author's name
+- `date_created`: The date the project was started (YYYY-MM-DD format)
+- `last_updated`: The date of the most recent update (YYYY-MM-DD format)
+- `version`: The current version of the project (e.g., v1.0, v2.1)
+- `status`: Either "In Progress" or "Completed"
+- `tags`: A list of relevant keywords (aim for 3-5 tags)
+- `data_sources`: A list of data sources used in the project
+- `alignment`: A brief explanation of how the project aligns with DEP Data Hub objectives
 
-## Metadata
-- **Contributor:** [Your Name]
-- **Date Added:** YYYY-MM-DD
-- **Last Updated:** YYYY-MM-DD
-- **Version:** v1.0
-
-## Description
-[Provide a brief description of the data source]
-
-## Source Organization
-[Name of the organization that produced or maintains this data]
-
-## Data Collection Methodology
-[Explain how the data was collected]
-
-## Time Period Covered
-[Specify the time range of the data, e.g., 2010-2022]
-
-## Update Frequency
-[How often is this data updated?]
-
-## Data Format
-[Specify the format(s) in which the data is available, e.g., CSV, JSON, API]
-
-## License / Usage Rights
-[Describe the terms under which this data can be used]
-
-## How to Access
-[Provide instructions or links for accessing the data]
-
-## Data Dictionary
-[If applicable, provide a brief data dictionary or link to one]
-
-## Relevance to Philippine Data Projects
-[Explain how this data source could be valuable for projects related to the Philippines]
-
-## Known Issues or Limitations
-[Describe any known problems or constraints with the data]
-
-## Related Projects
-[List any DEP Data Hub projects that use this data source]
-
-## Additional Resources
-[Include any helpful links or references related to this data]
+Remember to replace all placeholder text in both the YAML front matter and the Markdown sections with your actual project information.
 
 ---
-Submitted by: [Your Name]
-Date: [Submission Date]
+
+## Template Start
+
+Copy everything below this line:
+
+```yaml
+---
+title: "Your Project Title"
+author: "Your Name"
+date_created: YYYY-MM-DD
+last_updated: YYYY-MM-DD
+version: v1.0
+status: "In Progress" # or "Completed"
+tags: 
+  - tag1
+  - tag2
+  - tag3
+data_sources:
+  - "Data Source 1"
+  - "Data Source 2"
+alignment: "Briefly explain how your project aligns with DEP Data Hub objectives"
+---
+```
+
+# [Your Project Title]
+
+## Summary
+A brief overview of the project. What does it aim to achieve? How does it contribute to community empowerment in the Philippines?
+
+## Methodology
+[Describe the approach, tools, and techniques used]
+
+## Key Findings
+[Summarize the main insights or results]
+
+## Visualizations
+[Include or link to any relevant visualizations]
+
+## Code
+[Provide a link to the project's code repository if available]
+
+## Challenges and Solutions
+[Discuss any challenges faced, particularly related to data access or quality, and how they were addressed]
+
+## Community Impact
+[Describe the potential or actual impact of this project on Philippine communities]
+
+## Future Work
+[Discuss potential next steps or areas for improvement]
+
+## Contributors
+[List the main contributors to the project]
+
+## License
+[Specify the license under which this project is shared]
