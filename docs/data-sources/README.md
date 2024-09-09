@@ -2,18 +2,15 @@
 
 ## How to Add a New Data Source
 
-1. **Copy Template**: 
-   - Scroll down to the template section below
-   - Click the 'Raw' button on the top right of the template section
-   - Copy the entire raw Markdown content
-
-2. **Create File**: 
+1. **Create File**: 
    - In this `data-sources` folder, create a new file named `your-data-source-name.md`
-   - Paste the copied template into this new file
+
+2. **Copy Template**: 
+   - Copy the entire template provided at the bottom of this README
 
 3. **Fill Details**: 
-   - Replace all placeholders in the YAML front matter (between the `---` lines) with information about your data source
-   - Fill out the remaining sections in Markdown format
+   - Paste the template into your new file
+   - Replace all placeholders with information about your data source
    - Ensure all required fields are completed
 
 4. **Submit**: 
@@ -34,10 +31,13 @@
 - `update_frequency`: How often the data is updated (e.g., "Annual", "Monthly", "Real-time")
 - `data_formats`: A list of formats in which the data is available
 - `license`: The terms under which this data can be used
-- `tags`: A list of relevant keywords (aim for 3-5 tags)
-
+- `tags`: A list of relevant keywords (aim for 3-5 tags).
+ 
 Remember to replace all placeholder text in both the YAML front matter and the Markdown sections with your actual data source information.
-Copy the content below this line:
+
+## Template
+
+Copy the entire content below this line:
 
 ---
 
