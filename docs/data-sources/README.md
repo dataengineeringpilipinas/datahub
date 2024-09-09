@@ -64,6 +64,8 @@ tags:
 
 # [Your Data Source Name]
 
+*Note: To view the full metadata for this data source, please see the raw file in our [GitHub repository](https://github.com/dataengineeringpilipinas/datahub/tree/main/data-sources).*
+
 ## Description
 [Provide a brief description of the data source]
 
