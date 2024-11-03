@@ -1,7 +1,7 @@
 ---
 title: "Emigrant Country Dashboard"
 author: "Chris Formoso"
-location: "Manila"
+location: "Calgary, Canada"
 date_created: 2024-08-26
 last_updated: 2024-08-26
 version: v1.0
