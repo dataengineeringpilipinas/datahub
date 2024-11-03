@@ -23,6 +23,7 @@
 
 - `title`: The name of your project
 - `author`: Your name or the primary author's name
+- `location`: City where you are located
 - `date_created`: The date the project was started (YYYY-MM-DD format)
 - `last_updated`: The date of the most recent update (YYYY-MM-DD format)
 - `version`: The current version of the project (e.g., v1.0, v2.1)
