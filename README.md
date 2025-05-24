@@ -1,6 +1,6 @@
-# DEP Data Hub
+# DEP DataHub
 
-Welcome to the **DEP Data Hub**, a community-driven initiative by Data Engineering Pilipinas (DEP) to empower Filipino communities through data and data-driven projects.
+Welcome to the **DEP DataHub**, a community-driven initiative by Data Engineering Pilipinas (DEP) to empower Filipino communities through data and data-driven projects.
 
 ## About
 
@@ -17,8 +17,8 @@ The DEP Data Hub serves as a central repository for data sources and projects re
 
 ## Getting Started
 
+- Learn how to [contribute](docs/CONTRIBUTING.md) to the DEP DataHub
 - Explore our [projects](docs/projects/) and [data sources](docs/data-sources/)
-- Learn how to [contribute](docs/CONTRIBUTING.md) to the DEP Data Hub
 - Read our detailed [project overview](docs/OVERVIEW.md) and [roadmap](docs/ROADMAP.md)
 
 ## Join the Community
