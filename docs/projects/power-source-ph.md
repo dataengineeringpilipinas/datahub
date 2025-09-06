@@ -11,7 +11,16 @@ tags:
   - philippines
 data_sources:
   - Department of Energy
-alignment: "This project supports DEP Data Hub’s mission by promoting data transparency and public access to historical energy data in the Philippines. It helps policymakers, investors, and the public understand long-term trends in power generation—from traditional to renewable sources. With this insight, stakeholders can make data-driven decisions in designing policies and energy projects that align with the country’s sustainable development goals."
+alignment: |
+  This project supports DEP Data Hub’s mission by promoting data transparency 
+  and public access to historical energy data in the Philippines. 
+
+  It helps policymakers, investors, and the public understand long-term trends 
+  in power generation—from traditional to renewable sources. 
+
+  With this insight, stakeholders can make data-driven decisions in designing 
+  policies and energy projects that align with the country’s sustainable 
+  development goals.
 ---
 
 # Power Generation by Fuel Source
