@@ -1,0 +1,62 @@
+---
+title: Population by Age Group
+author: Jeremie Diaz
+date_created: 2025-09-14
+last_updated: 2025-09-14
+version: v1.0
+status: Completed
+tags: 
+  - population
+  - UN
+  - Philippines
+data_sources:
+  - UN, World Population Prospects (2024) – processed by Our World in Data
+
+alignment: Analyzing the dataset including the Philippine population from 1950 - 2023 as part of DEP's The Puso Project’s Data Deep Dive.
+---
+
+# World Population Analysis
+
+*Note: To view the full metadata for this project, please see the raw file in our [GitHub repository](https://github.com/dataengineeringpilipinas/datahub/tree/main/projects).*
+
+## Summary
+The analysis aims to show population trends and deep insights into global population by age groups, 0 - 4 years old, 5 - 15 years old, 16 - 24 years old, 25 - 64 years old, and 65 and above years old. 
+The analysis also included population data about the Philippines and look into the age groups in the country. The analysis also presented the Compound Annual Growth Rate(CAGR) that could bear economic and social implications.
+
+## Methodology
+Simple data processing techniques was used mostly Exploratory Data Analysis (EDA). Subsets of countries were grouped since they are included in the dataset. This includes aggregates groups by geography, economic status and economic development. 
+Data visualization was also used to show the trends and draw insights. Simple computation for the CAGR was used to determine the values. 
+
+Recommendations: Population dataset can have more features to make the analysis more insightful. 
+
+## Key Findings
+Countries that once benefited from large working-age populations (demographic dividend) will face challenges as aging accelerates. Social & policy: Rising elderly share requires stronger healthcare systems, retirement planning, and pension reforms. Developed regions (Europe, Japan, North America) already feel the effects of ageing. Developing regions (especially Africa, South Asia) still have relatively youthful populations but will follow this trend later.
+With 44.1% of the population in the 25–64 bracket, countries with strong economic policies can capitalize on a large labor force to boost growth. This is evident in emerging economies like India and parts of Africa. The fact that nearly half the global population is under 25 can be both an opportunity (innovation, labor force expansion) and a challenge (unemployment, education, political instability if opportunities are limited).
+Although only 6.8% now, the share of 65+ will continue rising. By 2050, the UN projects it may reach ~16%, meaning 1 in 6 people will be elderly. This will shift healthcare priorities, create demand for elder care industries, and reshape workforce dynamics.
+The high proportion of working-age people relative to children and the elderly is favorable today, but as the 25–64 group ages, the dependency ratio will rise, creating challenges for sustaining pensions and welfare systems. 
+UAE’s CAGR of 7% shows a country that multiplied its population many times over in just a few decades while Montserrat’s negative CAGR shows a country that has been shrinking steadily, ending up with a fraction of its starting population. The global CAGR mean is 1.8% and the Philippines is within that normal growth range.  
+The Philippines has moved from a youth-heavy society in 1950 to a workforce-heavy society in 2023, with fertility declining and aging beginning. The demographic dividend is at its peak, but policy decisions in the next decade will determine whether the country reaps its full benefit or faces economic strain.
+
+## Visualizations
+None
+
+## Code
+https://github.com/jaydiaz2012/world-population-analysis/tree/main
+
+## Challenges and Solutions
+While the dataset only showed age groups as its main feature, the dataset included aggregate groups of countries in the Entity column. This are group of countries based on geography, economic status, and economic developemnt. 
+They presented a sum of all countries in that group and yet, they are included in the countries they represent. For example, the Entity column contain a 'Europe' variable and yet, the countries of Europe are also present in the same column. 
+Thus, any sum is multiplied by the group. It was obvious then that there were outliers. To address this issue, the aggregate group of countries were filtered out into different dataframes and were dropped from the original so that only countries 
+remain in the original dataframe. 
+
+## Community Impact
+The impact into the Philippine community may be the population trend or insights on Philippine population for 7 decades. 
+
+## Future Work
+In future work, it might be exciting to check other features that can be related to population like income or education. 
+
+## Contributors
+Jeremie Diaz https://github.com/jaydiaz2012/
+
+## License
+This project is shared under the MIT License.
